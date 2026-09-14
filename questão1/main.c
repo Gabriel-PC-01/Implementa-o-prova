@@ -40,3 +40,6 @@ int main(){
     printf("valor de R: %hhu \n", R);
     printf("valor de G: %hhu \n", G);
     printf("valor de B: %hhu \n", B);
+
+    return 0;
+}
